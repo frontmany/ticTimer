@@ -1,3 +1,5 @@
+#pragma once
+
 #include <chrono>
 #include <functional>
 #include <mutex>
@@ -439,3 +441,4 @@ namespace tic {
         RapidTimer m_rapid;
     };
 }
+
