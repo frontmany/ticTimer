@@ -1,3 +1,5 @@
+![ticTimer](ticTimer.png)
+
 # ticTimer - C++ Timer Library
 
 Thread-safe C++ timer library with single-shot and repeating timers. Features expire-time-based callback execution order, non-blocking callbacks via producer-consumer pattern, and automatic timer management. Supports unlimited concurrent timers with precise timing using condition variables.
